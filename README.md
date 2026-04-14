@@ -4,6 +4,9 @@
 
 ---
 
+[![Watch the video](https://img.youtube.com/vi/uPs78Qf4vJA/0.jpg)](https://www.youtube.com/watch?v=uPs78Qf4vJA)
+
+
 ## What it does
 
 You pin up to 5 locations on a map (your office, gym, school — anywhere you commute to regularly). PropRadar asks Gemini AI to find properties near all of them simultaneously, ranks results by a weighted commute score, and plots them as markers on an interactive map with a detail panel on the right.
